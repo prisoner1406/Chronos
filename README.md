@@ -1,7 +1,9 @@
-
+<div align="center">
+<img width="1438" height="558" alt="Screenshot 2026-01-29 084710" src="https://github.com/user-attachments/assets/7843d73a-8bc2-4fd0-8841-772c7a144ff0" />
 </div>
 
-## Run Locally
+## Run Locally<img 
+
 
 **Prerequisites:**  Node.js
 
